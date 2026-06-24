@@ -59,10 +59,10 @@ align-items:center;
 text-align:center;
 background:
 linear-gradient(
-rgba(255,255,255,0.75),
-rgba(255,255,255,0.75)
+rgba(255,255,255,0.35),
+rgba(255,255,255,0.35)
 ),
-url('images/banner1.jpg');
+url('images/Banner1.jpg');
 background-size:cover;
 background-position:center;
 background-repeat:no-repeat;
